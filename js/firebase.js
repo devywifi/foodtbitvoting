@@ -1,13 +1,13 @@
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBTPzh5RtlERnfNY-3EYCOvVfnHBBrJiZc",
-  authDomain: "foodtracemixer.firebaseapp.com",
-  databaseURL: "https://foodtracemixer-default-rtdb.firebaseio.com",
-  projectId: "foodtracemixer",
-  storageBucket: "foodtracemixer.appspot.com",
-  messagingSenderId: "945536910378",
-  appId: "1:945536910378:web:8d889b030e29ff40c5ef53"
+  apiKey: "AIzaSyC5UMFsuOYDYJ1mwU8RGM-pFSNySKudGt4",
+  authDomain: "desiseasoncontest.firebaseapp.com",
+  databaseURL: "https://desiseasoncontest-default-rtdb.firebaseio.com",
+  projectId: "desiseasoncontest",
+  storageBucket: "desiseasoncontest.appspot.com",
+  messagingSenderId: "123036878366",
+  appId: "1:123036878366:web:49a194116190daf788d00f"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
